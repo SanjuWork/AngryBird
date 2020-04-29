@@ -6,5 +6,6 @@ function draw(){
 
 	background("yellow");
 	rect(0,150,100,10);
+	rect(10,200,50,20);
 }
 
